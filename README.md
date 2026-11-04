@@ -29,18 +29,18 @@ toni@now:~$ cat ./focus.txt
 │  M0 V1 core · MetaMask USD · MoneyGram MGUSD · PayPal PYUSDx · Issuance V2 (GENIUS-compliant stack)
 │  grew eng org from 0 to 16 at peak, across four teams · ~50 audits
 │
-* 2022–2023  👛 MoonPay · Senior Blockchain Engineer
+* 2022–2023  👛 <a href="https://github.com/moonpay">MoonPay</a> · Senior Blockchain Engineer
 │  Wallet infrastructure
 │
-* 2020–2022  🏦 Compound Labs · Senior Blockchain Engineer
+* 2020–2022  🏦 <a href="https://github.com/compound-finance">Compound Labs</a> · Senior Blockchain Engineer
 │  Borrowing &amp; lending protocol that kickstarted DeFi summer
 │  Compound V3 (Comet, $2.5B peak TVL) · Open Price Feed · COMP launch · CAPs
 │
-* 2018–2020  🏢 ConsenSys · Senior Blockchain Engineer
+* 2018–2020  🏢 <a href="https://github.com/Consensys">ConsenSys</a> · Senior Blockchain Engineer
 │  Enterprise blockchain &amp; early RWA tokenization
 │  CodeFi Activate &amp; Payments
 │
-* 2017–2018  🔁 Bosonic · Blockchain Engineer
+* 2017–2018  🔁 <a href="https://github.com/otcxn">Bosonic</a> · Blockchain Engineer
 │  BTC → ETH atomic swaps via cross-settlement network
 │
 * 2010–2017  ⚙️ Misc · R&amp;D Lead, Compilers, Backend Enterprise Systems
